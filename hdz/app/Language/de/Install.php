@@ -1,10 +1,10 @@
 <?php
 return [
-    'welcome' => 'Welcome!',
-    'welcomeInfo' => 'Welcome to HelpDeskZ v%version%, please select the action that you want to do:',
-    'installSite' => 'Install fresh copy',
-    'upgradeSite' => 'Upgrade my HelpDeskZ',
-    'installWizard' => 'Installation Wizard',
+    'welcome' => 'Willkommen!',
+    'welcomeInfo' => 'Willkommen zu HelpDeskZ v%version%, Bitte wählen Sie die gewünschte Aktion aus:',
+    'installSite' => 'Neue Version installieren',
+    'upgradeSite' => 'Upgrade meines HelpDeskZ',
+    'installWizard' => 'Installationsassistent',
     'installInfo1' => 'Welcome to HelpDeskZ installation process! This will be easy and fun. If you need help, take a look to the ReadMe documentation
 (readme.html)',
     'installInfo2' => 'If you have new ideas to improve the software or have any doubt, visit our [a]forums[/a].',
